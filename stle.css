@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+header{
+    background: url(images/bg-hero-desktop.svg)hsl(189, 100%, 96%) no-repeat;
+
+    
+}
+nav img{
+    width: 8rem;
+
+}
+
+nav button{
+    width: 10rem
+}
+
+.hero-content h2{
+    font-family: 'Poppins', sans-serif;
+}
+
+.hero-content button{
+    background-color: hsl(322, 100%, 66%);
+}
+.footer{
+    background-color: hsl(192, 100%, 9%);
+    position: absolute;
+}
+
+.container{
+    position: relative;
+    bottom: 100px;
+
+
+}
+/* .footer build{
+    color: aliceblue;
+} */
