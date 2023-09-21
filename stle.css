@@ -20,16 +20,22 @@ nav button{
 .hero-content button{
     background-color: hsl(322, 100%, 66%);
 }
-.footer{
+footer{
     background-color: hsl(192, 100%, 9%);
-    position: absolute;
+    
 }
 
-.container{
+.grip{
     position: relative;
-    bottom: 100px;
+    top: 100px;
+}
 
 
+
+.build{
+    position: relative;
+    top: 50px;
+    border-radius: 10px;
 }
 /* .footer build{
     color: aliceblue;
